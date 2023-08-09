@@ -71,7 +71,12 @@ a {
   font-weight: bold;
   font-size: 2rem;
 }
-
+.button{
+  font-weight: 500;
+  padding: 0.6rem 1.4rem;
+  background: (var(--blue-gradient));
+  transition: all;
+}
 .secondaryText {
   color: rgb(140 139 139);
   font-size: 0.9rem;
@@ -89,6 +94,7 @@ a {
     margin: auto;
   }
 }
+/* ok */
 
 @media (min-width: 640px) {
   .paddings {

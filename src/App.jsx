@@ -1,7 +1,8 @@
+import Header from "./components/Header/Header";
 
 function App() {
   return (
-    <span>Project setup</span>
+    <Header></Header>
   );
 }
 

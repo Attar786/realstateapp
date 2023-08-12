@@ -5,13 +5,13 @@ function Hero() {
     <section className="hero-wrapper">
         <div className="paddings innerWidth flexCenter hero-container">
             <div className="hero-right">
-             <div className="image-container">
-                <img src="/client/public/hero-image.png" alt="" />
-             </div>
+            lesf 
             </div>
 
             <div className="flexCenter hero-left">
-
+            <div className="image-container">
+                <img src="./hero-image.png" alt="" />
+             </div>
             </div>
         </div>
     </section>

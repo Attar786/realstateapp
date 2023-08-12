@@ -1,14 +1,16 @@
 import React from 'react'
-
+import "./hero.css"
 function Hero() {
   return (
     <section className="hero-wrapper">
         <div className="paddings innerWidth flexCenter hero-container">
             <div className="hero-right">
-               righjt section
+             <div className="image-container">
+                <img src="/client/public/hero-image.png" alt="" />
+             </div>
             </div>
 
-            <div className="hero-left">
+            <div className="flexCenter hero-left">
 
             </div>
         </div>
